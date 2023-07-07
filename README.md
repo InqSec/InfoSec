@@ -67,7 +67,7 @@ Study
 - https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse/abusing-active-directory-with-bloodhound-on-kali-linux - Bloodhound
 
 Wiki
-https://book.hacktricks.xyz/welcome/readme - Pentester WiKi
+- https://book.hacktricks.xyz/welcome/readme - Pentester WiKi
 
 Podcasts
 - https://habr.com/ru/companies/bastion/articles/745518/ - Подкасты по ИБ
