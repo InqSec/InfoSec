@@ -77,7 +77,3 @@ News
 
 CVE
 - https://vulners.com/ - База уязвимостей
-
-Phishing
-- https://github.com/gophish/gophish - OpenSource Phishing платформа
-- https://github.com/chrismaddalena/Goreport - формирование отчета для GoPhish
